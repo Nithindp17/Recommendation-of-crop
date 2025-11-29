@@ -1,4 +1,4 @@
-# Crop Recommendation System using Random Forest
+# A Machine Learning–Based Crop Recommendation System Using Random Forest Classifier
 
 This project is a machine learning application that recommends the best crop to grow based on soil and weather conditions. It uses a Random Forest Classifier trained on the Crop Recommendation Dataset from Kaggle.
 
